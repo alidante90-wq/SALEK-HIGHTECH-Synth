@@ -2,4 +2,5 @@
 
 namespace salek
 {
+// Header-only for now.
 }
